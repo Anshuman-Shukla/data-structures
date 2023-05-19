@@ -8,6 +8,7 @@ public class DataStructureApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DataStructureApplication.class, args);
+
 	}
 
 }
