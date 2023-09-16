@@ -5,15 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/recursion/Fibanocci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/AverageTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/FindDiagonalElementOf2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/FindTwoHighestNumberFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/SortArrayInAscendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AbstractFactoryDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AndroidDevFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AndroidDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/EmplyeeAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/WebDevFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/builderDesign/BuilderDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/builderDesign/EmployeeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/AngularDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/DotNetDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/FactoryDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/prototypePattern/NetworkConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/prototypePattern/PrototypeDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/singleton/SingletonDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/dummy/DummyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/dummy/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacterInStringAlphabeticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/misc60dsaQues/MergeTwoSortedLinkedNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/misc60dsaQues/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/CheckIfArrayIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/CheckIfTheNumberIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/MoveAllZerosAtEndOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/DataStructureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/DataStructureApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/FindOddPositionValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/recursion/Fibanocci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/recursion/Fibanocci.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +57,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,26 +80,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/anshuman/Downloads/Programming-Java/data-structures&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/anshuman/Downloads/Programming-Java/data-structures",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibanocci">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.binarySearch.BinarySearch" />
+  <component name="RunManager" selected="Application.CheckIfArrayIsPalindrome">
+    <configuration name="CheckIfArrayIsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.CheckIfArrayIsPalindrome" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.binarySearch.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibanocci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.recursion.Fibanocci" />
+    <configuration name="CheckIfTheNumberIsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.CheckIfTheNumberIsPalindrome" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.recursion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.array.Main" />
+    <configuration name="FindDiagonalElementOf2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.array.FindDiagonalElementOf2DArray" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroToLastFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.MoveZeroToLastFromArray" />
+    <configuration name="FindOddPositionValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.array.FindOddPositionValue" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccuranceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.OccuranceOfCharacter" />
+    <configuration name="MoveAllZerosAtEndOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.MoveAllZerosAtEndOfArray" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibanocci" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OccuranceOfCharacter" />
-        <item itemvalue="Application.MoveZeroToLastFromArray" />
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.CheckIfArrayIsPalindrome" />
+        <item itemvalue="Application.FindOddPositionValue" />
+        <item itemvalue="Application.FindDiagonalElementOf2DArray" />
+        <item itemvalue="Application.MoveAllZerosAtEndOfArray" />
+        <item itemvalue="Application.CheckIfTheNumberIsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +184,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -152,6 +202,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/binarySearch/BinarySearch.java</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

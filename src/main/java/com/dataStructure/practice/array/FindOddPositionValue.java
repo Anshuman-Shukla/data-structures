@@ -1,6 +1,6 @@
 package com.dataStructure.practice.array;
 
-public class Main {
+public class FindOddPositionValue {
     public static int[] oddpos(int [] arr, int size){
         int [] results = new int[size];
         for (int i = 1; i < size; i = i+2){
