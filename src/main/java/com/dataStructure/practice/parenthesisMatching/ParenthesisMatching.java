@@ -42,6 +42,7 @@ public class ParenthesisMatching {
         }
 
         public static void main (String[]args){
-            System.out.println(checkParenthesisMatching("{[({})]}"));
+
+        System.out.println(checkParenthesisMatching("{}{[({})]}{}"));
         }
     }

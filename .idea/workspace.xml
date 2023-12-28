@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/AverageFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/FindTheDuplicateFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/FindTheHighestValueFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/NthHighestSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/RemoveTheDuplicatesFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/SwapTheFirstAndLastCharacterOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/leetcode/integers/CountZeroAtLastFromFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/MoveAllZerosAtEndOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/MoveAllZerosAtEndOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +62,13 @@
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AverageFromString">
-    <configuration name="AverageFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.AverageFromString" />
+  <component name="RunManager" selected="Application.OccuranceOfCharacter">
+    <configuration name="CountZeroAtLastFromFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.leetcode.integers.CountZeroAtLastFromFactorial" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.leetcode.integers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheDuplicateFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.FindTheDuplicateFromArray" />
+    <configuration name="OccuranceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.OccuranceOfCharacter" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.NthHighestSalary" />
+    <configuration name="OccuranceOfCharacterInStringAlphabeticalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.OccuranceOfCharacterInStringAlphabeticalOrder" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypeDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.prototypePattern.PrototypeDesignPattern" />
+    <configuration name="ParenthesisMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.parenthesisMatching.ParenthesisMatching" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.prototypePattern.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.parenthesisMatching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTheFirstAndLastCharacterOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.SwapTheFirstAndLastCharacterOfString" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.misc60dsaQues.TwoSum" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.misc60dsaQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AverageFromString" />
-        <item itemvalue="Application.PrototypeDesignPattern" />
-        <item itemvalue="Application.NthHighestSalary" />
-        <item itemvalue="Application.SwapTheFirstAndLastCharacterOfString" />
-        <item itemvalue="Application.FindTheDuplicateFromArray" />
+        <item itemvalue="Application.OccuranceOfCharacter" />
+        <item itemvalue="Application.CountZeroAtLastFromFactorial" />
+        <item itemvalue="Application.OccuranceOfCharacterInStringAlphabeticalOrder" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.ParenthesisMatching" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +207,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/SwapTheFirstAndLastCharacterOfString.java</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/leetcode/integers/CountZeroAtLastFromFactorial.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
