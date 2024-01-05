@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/leetcode/integers/CountZeroAtLastFromFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/CheckStringsAreAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/FindSecondLargestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/LargestSubstringBetweenEqualCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/MoveAllZerosAtEndOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/MoveAllZerosAtEndOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +63,52 @@
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OccuranceOfCharacter">
-    <configuration name="CountZeroAtLastFromFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.leetcode.integers.CountZeroAtLastFromFactorial" />
+  <component name="RunManager" selected="Application.AbstractFactoryDesign">
+    <configuration name="AbstractFactoryDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.abstractFactory.AbstractFactoryDesign" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.leetcode.integers.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.designpattern.abstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckStringsAreAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.CheckStringsAreAnagram" />
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSecondLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.FindSecondLargestWord" />
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestSubstringBetweenEqualCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.LargestSubstringBetweenEqualCharacters" />
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,52 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccuranceOfCharacterInStringAlphabeticalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.OccuranceOfCharacterInStringAlphabeticalOrder" />
-      <module name="data-structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParenthesisMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.parenthesisMatching.ParenthesisMatching" />
-      <module name="data-structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.parenthesisMatching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.misc60dsaQues.TwoSum" />
-      <module name="data-structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.misc60dsaQues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractFactoryDesign" />
         <item itemvalue="Application.OccuranceOfCharacter" />
-        <item itemvalue="Application.CountZeroAtLastFromFactorial" />
-        <item itemvalue="Application.OccuranceOfCharacterInStringAlphabeticalOrder" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ParenthesisMatching" />
+        <item itemvalue="Application.LargestSubstringBetweenEqualCharacters" />
+        <item itemvalue="Application.FindSecondLargestWord" />
+        <item itemvalue="Application.CheckStringsAreAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +213,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/leetcode/integers/CountZeroAtLastFromFactorial.java</url>
           <line>12</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/CheckStringsAreAnagram.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

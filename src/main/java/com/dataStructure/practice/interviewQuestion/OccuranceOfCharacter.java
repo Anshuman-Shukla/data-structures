@@ -16,7 +16,7 @@ public class OccuranceOfCharacter {
         String str= "hellofhgaaaaaacccccccbbbbffgfghg";
         Map<String, Long> collect = Arrays.stream(str.split(""))
                 .map(String::toLowerCase)
-                .collect(Collectors.groupingBy(s -> s, Collectors.counting()));
+                .collect(Collectors.groupingBy(s -> s,TreeMap::new, Collectors.counting()));
         System.out.println(collect);
 
     }
