@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/CheckStringsAreAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/FindSecondLargestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/revision/LargestSubstringBetweenEqualCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/producerConsumer/ProducerConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +58,13 @@
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryDesign">
+  <component name="RunManager" selected="Application.ProducerConsumer">
     <configuration name="AbstractFactoryDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.abstractFactory.AbstractFactoryDesign" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dataStructure.practice.designpattern.abstractFactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckStringsAreAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.CheckStringsAreAnagram" />
-      <module name="data-structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.producerConsumer.ProducerConsumer" />
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataStructure.practice.producerConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerConsumer" />
         <item itemvalue="Application.AbstractFactoryDesign" />
         <item itemvalue="Application.OccuranceOfCharacter" />
         <item itemvalue="Application.LargestSubstringBetweenEqualCharacters" />
         <item itemvalue="Application.FindSecondLargestWord" />
-        <item itemvalue="Application.CheckStringsAreAnagram" />
       </list>
     </recent_temporary>
   </component>

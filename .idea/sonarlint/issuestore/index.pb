@@ -76,8 +76,6 @@ Usrc/main/java/com/dataStructure/practice/interviewQuestion/FindSecondLargestWor
 ]src/main/java/com/dataStructure/practice/revision/LargestSubstringBetweenEqualCharacters.java,e/0/e07498139c3c42c958fb32e8a93b0445bfc7f9d8
 m
 =src/main/java/com/dataStructure/practice/array/SortArray.java,2/7/27d17066a1999c1b07d0b5b5392bb64581cb24db
-Ñ
-Tsrc/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.java,0/6/06a370eb2cc35c0924157f297cc0841ff54acb33
 ù
 msrc/main/java/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacterInStringAlphabeticalOrder.java,8/e/8e33199188283d0e60f6da8e7d93b04f091594ca
 á
