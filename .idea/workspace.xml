@@ -5,10 +5,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/producerConsumer/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/BestTimeToBuyStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/MiddleFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/RemoveDuplicateFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/SumOfDiagonalElementIn2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/AdapterCharger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/AndroidCharger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/AndroidChargerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/AppleCharger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Adapter/Iphone14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/HdProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/NetflixVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/UHDProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/VideoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Bridge/YoutubeVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Composite/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Composite/FinancialDep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Composite/HRDep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Composite/HeadDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/CheeseBurstDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/JalpenoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Decorator/PizzaDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data-structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data-structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_6_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AbstractFactoryDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/AbstractFactoryDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AndroidDevFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/AndroidDevFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/AndroidDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/AndroidDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/EmplyeeAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/EmplyeeAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/WebDevFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/WebDevFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/abstractFactory/WebDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/abstractFactory/WebDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/builderDesign/BuilderDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/builderDesign/BuilderDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/builderDesign/EmployeeDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/builderDesign/EmployeeDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/AngularDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/AngularDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/DotNetDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/DotNetDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/FactoryDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/FactoryDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/factory/JavaDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/factory/JavaDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/prototypePattern/NetworkConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/prototypePattern/NetworkConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/prototypePattern/PrototypeDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/prototypePattern/PrototypeDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/singleton/SingletonDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/singleton/SingletonDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/creationalDesignPattern/singleton/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/DataStructureApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/DataStructureApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/FrogJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/FrogJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/binarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/binarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/MoveZeroToLastFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/interviewQuestion/OccuranceOfCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/parenthesisMatching/ParenthesisMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/recursion/Fibanocci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/recursion/Fibanocci.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,17 +154,20 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dataStructure.practice.designpattern.structuralDesignPattern.Bridge" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProducerConsumer">
-    <configuration name="AbstractFactoryDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.abstractFactory.AbstractFactoryDesign" />
+  <component name="RunManager" selected="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Adapter.Demo" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.abstractFactory.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSecondLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.FindSecondLargestWord" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Bridge.Main" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestSubstringBetweenEqualCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.revision.LargestSubstringBetweenEqualCharacters" />
+    <configuration name="RemoveDuplicateFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.array.RemoveDuplicateFromSortedArray" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.revision.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccuranceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.interviewQuestion.OccuranceOfCharacter" />
+    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.interviewQuestion.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.producerConsumer.ProducerConsumer" />
+    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.producerConsumer.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProducerConsumer" />
-        <item itemvalue="Application.AbstractFactoryDesign" />
-        <item itemvalue="Application.OccuranceOfCharacter" />
-        <item itemvalue="Application.LargestSubstringBetweenEqualCharacters" />
-        <item itemvalue="Application.FindSecondLargestWord" />
+        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" />
+        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +316,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/interviewQuestion/CheckStringsAreAnagram.java</url>
           <line>17</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/RemoveDuplicateFromSortedArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
