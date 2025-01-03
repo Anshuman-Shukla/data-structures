@@ -5,23 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351a274b-6fb5-4aca-bbe2-a8faae03dd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/DeliveryBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/OrderDelivered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/OrderFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/PrepareOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Flyweight/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Flyweight/CharacterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Flyweight/CharacterFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Flyweight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Proxy/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Proxy/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Proxy/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Proxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/BestScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/MiddleFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/Rotate2DBy90Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/SumOfDiagonalOf2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/linkedlist/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/linkedlist/singlylinkedlist/CircularSinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/linkedlist/singlylinkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/linkedlist/singlylinkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/linkedlist/singlylinkedlist/SinglyMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dataStructure/practice/DataStructureApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataStructure/practice/DataStructureApplication.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +72,13 @@
       <recent name="com.dataStructure.practice.parenthesisMatching" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Proxy.Main">
-    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" />
+  <component name="RunManager" selected="Application.SinglyMain">
+    <configuration name="BestScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.udemyCourses.Arrays.BestScore" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.udemyCourses.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" />
+    <configuration name="MiddleFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.udemyCourses.Arrays.MiddleFunction" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.udemyCourses.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Facade.Main" />
+    <configuration name="Rotate2DBy90Degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.udemyCourses.Arrays.Rotate2DBy90Degree" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Facade.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.udemyCourses.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Flyweight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Flyweight.Main" />
+    <configuration name="SinglyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.udemyCourses.linkedlist.singlylinkedlist.SinglyMain" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Flyweight.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.udemyCourses.linkedlist.singlylinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dataStructure.practice.designpattern.structuralDesignPattern.Proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Proxy.Main" />
+    <configuration name="SumOfDiagonalOf2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.practice.udemyCourses.Arrays.SumOfDiagonalOf2DArray" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dataStructure.practice.designpattern.structuralDesignPattern.Proxy.*" />
+          <option name="PATTERN" value="com.dataStructure.practice.udemyCourses.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Proxy.Main" />
-        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Flyweight.Main" />
-        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Facade.Main" />
-        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Decorator.Main" />
-        <item itemvalue="Application.com.dataStructure.practice.designpattern.structuralDesignPattern.Composite.Main" />
+        <item itemvalue="Application.SinglyMain" />
+        <item itemvalue="Application.Rotate2DBy90Degree" />
+        <item itemvalue="Application.BestScore" />
+        <item itemvalue="Application.SumOfDiagonalOf2DArray" />
+        <item itemvalue="Application.MiddleFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +232,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/array/RemoveDuplicateFromSortedArray.java</url>
           <line>22</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/MiddleFunction.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/udemyCourses/Arrays/BestScore.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/dataStructure/practice/designpattern/structuralDesignPattern/Facade/Main.java</url>
